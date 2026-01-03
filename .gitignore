@@ -1,0 +1,5 @@
+result
+netrc
+.DS_Store
+flake.lock
+flake-backup.nix
