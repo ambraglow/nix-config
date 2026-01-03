@@ -1,7 +1,7 @@
 let
   hosts = {
     Choccybo = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHYYN12qCnWL0zYvXQ4pmsOF+xbOQpW93jWk/ShMbmBY";
-    stroopwafel2000 = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMa8G02h5ZHtAdJHxw6UibK4PQ3Y7J9pxWVQ97DgVXNd";
+    stroopwafel2000 = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDSI1izXUbaDwuWv0s0r+o2zU8AxKXNSTSCnVYg2ZEb+";
   };
 
   users = {
